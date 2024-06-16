@@ -5,4 +5,4 @@ Step 2: Create the Test File
 
 Step 3: Run the Tests
 	
- $ python -m pytest test_calculator.py
+ 	$ python -m pytest test_calculator.py
